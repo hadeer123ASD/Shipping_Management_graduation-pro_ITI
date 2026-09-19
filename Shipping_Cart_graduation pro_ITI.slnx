@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Domain Layer/Domain Layer.csproj" />
+  <Project Path="infrastructure layer/infrastructure layer.csproj" />
+  <Project Path="Shipping_Cart_graduation pro_ITI/Shipping_Cart_graduation pro_ITI.csproj" />
+</Solution>

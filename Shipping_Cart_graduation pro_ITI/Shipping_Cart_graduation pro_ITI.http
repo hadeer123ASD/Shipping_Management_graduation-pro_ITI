@@ -1,0 +1,6 @@
+@Shipping_Cart_graduation_pro_ITI_HostAddress = http://localhost:5063
+
+GET {{Shipping_Cart_graduation_pro_ITI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
